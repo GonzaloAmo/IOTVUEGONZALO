@@ -132,7 +132,6 @@ const handleSignup = async (e) => {
 </script>
 
 <style lang="css">
-@import '@/assets/styles/main.css';
 
 body {
   background-color: #f2f2f2;
