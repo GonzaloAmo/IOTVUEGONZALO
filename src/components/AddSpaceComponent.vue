@@ -248,7 +248,7 @@ auth.onAuthStateChanged(async (user) => {
 });
 
 const toApp = (idDevice) => {
-  window.open(`http://localhost:5174/${userUID.value}/${idDevice}`, '_blank');
+  window.open(`https://gonzaloamo.github.io/IOT2/${userUID.value}/${idDevice}`, '_blank');
 }
 const toggleMenu = (index) => {
   openMenus.value[index] = !openMenus.value[index];
