@@ -19,5 +19,4 @@ const CerrarSesion=()=>{
 </script>
 
 <style lang="css">
-    @import '@/assets/styles/main.css';
 </style>
